@@ -19,5 +19,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void gan() {
         txt1 = findViewById(R.id.txt1);
+        txt1 = findViewById(R.id.txt1);
+        txt1 = findViewById(R.id.txt1);
+        txt1 = findViewById(R.id.txt1);
     }
 }
